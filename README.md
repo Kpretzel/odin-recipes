@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project
+Odin Project: Setting up Git repositories to hold future projects.
